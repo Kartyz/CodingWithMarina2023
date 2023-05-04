@@ -6,10 +6,6 @@ public class Encarrec {
     private int hora;
     private int minut;
 
-    public Encarrec(){
-        Encarrec E = new Encarrec();
-
-    }
     public void afegirProducte(Peticio p){}
     public void eliminarProducte(Peticio p){}
     public int getDia() {

@@ -2,7 +2,7 @@ package UF4.Empresa;
 
 public class Client {
     private String nom;
-    private String adreça;
+    private String adreca;
     private String telefon;
     private String email;
 
@@ -21,12 +21,12 @@ public class Client {
         this.nom = nom;
     }
 
-    public String getAdreça() {
-        return adreça;
+    public String getAdreca() {
+        return adreca;
     }
 
-    public void setAdreça(String adreça) {
-        this.adreça = adreça;
+    public void setAdreca(String adreca) {
+        this.adreca = adreca;
     }
 
     public String getTelefon() {

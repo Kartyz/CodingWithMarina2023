@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CodingWithMarina2023.iml" filepath="$PROJECT_DIR$/CodingWithMarina2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UF3/Notas/Notas.iml" filepath="$PROJECT_DIR$/UF3/Notas/Notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UF3/UF3.iml" filepath="$PROJECT_DIR$/UF3/UF3.iml" />
     </modules>
   </component>
 </project>

@@ -6,17 +6,6 @@ public class TipusProducte {
     private float preu;
     private int estoc;
     private boolean aLaVenda;
-    public TipusProducte(String nom, int codiIdentificador, float preu, int estoc, boolean aLaVenda){
-        this.nom=nom;
-
-        this.codiIdentificador=codiIdentificador;
-
-        this.preu=preu;
-
-        this.estoc=estoc;
-
-        this.aLaVenda=aLaVenda;
-    }
 
     public String getNom() {
         return nom;

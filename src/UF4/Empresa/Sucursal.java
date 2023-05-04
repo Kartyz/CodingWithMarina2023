@@ -5,7 +5,12 @@ public class Sucursal {
     private String adreça;
     private String telefon;
     private String email;
-    public Sucursal(){}
+
+    public void descansa(Transportista T){}
+    public void treballa(Transportista T){}
+    public void altaClient(Client C){}
+    public void baixaClient(Client C){}
+    public void altaEncarrec(Client C,Transportista T,Encarrec E){}
     public String getNom() {
         return nom;
     }
@@ -30,10 +35,6 @@ public class Sucursal {
     public void setEmail(String email) {
         this.email = email;
     }
-    public void descansa(Transportista T){}
-    public void treballa(Transportista T){}
-    public void altaClient(Client C){}
-    public void baixaClient(Client C){}
-    public void altaEncarrec(Client C,Transportista T,Encarrec E){}
+
 
 }

@@ -5,10 +5,6 @@ public class Transportista {
     private String telefon;
     private int numllicencia;
 
-    public Transportista(){
-        Transportista T = new Transportista();
-
-    }
     public void assignarEncarrec(Encarrec e){}
     public void anularEncarrec(Encarrec e){}
     public String getNom() {
